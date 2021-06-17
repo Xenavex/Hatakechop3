@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hatakechop3
 - 👀 I’m interested in Learning any language [ such as css scss or Python]
-- 🌱 I’m currently learning Scss
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Css
 - 📫 How to reach me Bit.ly/HC_3ALL
 
